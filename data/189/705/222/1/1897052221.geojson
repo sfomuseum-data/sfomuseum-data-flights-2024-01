@@ -1,0 +1,69 @@
+{
+  "id": 1897052221,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-01-05",
+    "date:inception_upper": "2024-01-05",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-01-05",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2024-01-05",
+    "flysfo:estimated_timestamp": 1704528840,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA2585",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-MSY",
+    "flysfo:scheduled_timestamp": 1704524400,
+    "flysfo:timestamp": 1704528840,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,29.982609,-90.261832,37.617990",
+    "geom:latitude": 33.8002995,
+    "geom:longitude": -106.31638749999999,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102530009,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20240105-D-UAL-2585",
+    "sfomuseum:flight_number": [
+      "UAL2585",
+      "UA2585"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1704558462,
+    "wof:geomhash": "8b4edcad4124de1c487808d2d2d1ecd3",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1897052221
+      }
+    ],
+    "wof:id": 1897052221,
+    "wof:involves": [
+      102530009,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1704558462,
+    "wof:name": "UA2585 (SFO-MSY)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2024-01",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    29.982609,
+    -90.261832,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-90.261832,29.982609]],"type":"MultiPoint"}
+}
