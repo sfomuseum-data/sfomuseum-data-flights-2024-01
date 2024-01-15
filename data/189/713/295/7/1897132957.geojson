@@ -1,0 +1,69 @@
+{
+  "id": 1897132957,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-01-14",
+    "date:inception_upper": "2024-01-14",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-01-14",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2024-01-14",
+    "flysfo:estimated_timestamp": 1705294200,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA2307",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-LIH",
+    "flysfo:scheduled_timestamp": 1705259100,
+    "flysfo:timestamp": 1705294200,
+    "geom:area": 0,
+    "geom:bbox": "-159.347789,21.981539,-122.370943,37.617990",
+    "geom:latitude": 29.799764500000002,
+    "geom:longitude": -140.859366,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102528943,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20240114-D-UAL-2307",
+    "sfomuseum:flight_number": [
+      "UAL2307",
+      "UA2307"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1705335901,
+    "wof:geomhash": "a2498fe603884edb23014f03e0e3c121",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1897132957
+      }
+    ],
+    "wof:id": 1897132957,
+    "wof:involves": [
+      102528943,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1705335901,
+    "wof:name": "UA2307 (SFO-LIH)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2024-01",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -159.347789,
+    21.981539,
+    -122.370943,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-159.347789,21.981539]],"type":"MultiPoint"}
+}
