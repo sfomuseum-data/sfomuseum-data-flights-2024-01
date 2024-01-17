@@ -2,10 +2,12 @@
   "id": 1897145727,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-01-16",
+    "date:cessation_upper": "2024-01-16",
     "date:inception_lower": "2024-01-16",
     "date:inception_upper": "2024-01-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-01-16",
+    "edtf:cessation": "2024-01-16T14:59:21Z",
+    "edtf:inception": "2024-01-16T03:30:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +58,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "74529926"
+    },
     "wof:country": "US",
     "wof:created": 1705508059,
     "wof:geomhash": "07839d38a937070012f963bfe77eb5da",
@@ -92,7 +100,7 @@
       1763588443,
       1159283697
     ],
-    "wof:lastmodified": 1705508059,
+    "wof:lastmodified": 1705508920,
     "wof:name": "UA916 (AKL-SFO)",
     "wof:parent_id": 1763588443,
     "wof:placetype": "custom",

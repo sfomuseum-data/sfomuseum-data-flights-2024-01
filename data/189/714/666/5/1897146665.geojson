@@ -2,10 +2,12 @@
   "id": 1897146665,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-01-16",
+    "date:cessation_upper": "2024-01-16",
     "date:inception_lower": "2024-01-16",
     "date:inception_upper": "2024-01-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-01-16",
+    "edtf:cessation": "2024-01-16T16:16:38Z",
+    "edtf:inception": "2024-01-16T04:16:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "NZ",
     "flysfo:base_airline": "",
@@ -40,6 +42,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "74531470"
+    },
     "wof:country": "US",
     "wof:created": 1705508288,
     "wof:geomhash": "0a41093e5d82882db018a6f46a3ef58a",
@@ -56,7 +61,7 @@
       -1,
       1159283597
     ],
-    "wof:lastmodified": 1705508288,
+    "wof:lastmodified": 1705508923,
     "wof:name": "NZ7 (SFO-AKL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

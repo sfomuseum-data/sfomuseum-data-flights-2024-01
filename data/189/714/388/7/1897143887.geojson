@@ -2,10 +2,12 @@
   "id": 1897143887,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-01-16",
+    "date:cessation_upper": "2024-01-16",
     "date:inception_lower": "2024-01-16",
     "date:inception_upper": "2024-01-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-01-16",
+    "edtf:cessation": "2024-01-16T05:59:58Z",
+    "edtf:inception": "2024-01-16T00:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:date": "2024-01-16",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "74517705"
+    },
     "wof:country": "US",
     "wof:created": 1705507584,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -50,7 +55,7 @@
       1159283813,
       -1
     ],
-    "wof:lastmodified": 1705507584,
+    "wof:lastmodified": 1705508934,
     "wof:name": "AS27 (JFK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

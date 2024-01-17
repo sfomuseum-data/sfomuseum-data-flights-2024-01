@@ -2,10 +2,12 @@
   "id": 1897148193,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-01-16",
+    "date:cessation_upper": "2024-01-16",
     "date:inception_lower": "2024-01-16",
     "date:inception_upper": "2024-01-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-01-16",
+    "edtf:cessation": "2024-01-16T23:50:00Z",
+    "edtf:inception": "2024-01-16T21:45:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2024-01-16",
@@ -48,6 +50,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "74596862"
+    },
     "wof:country": "US",
     "wof:created": 1705508663,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
@@ -86,7 +91,7 @@
       1159285591,
       1763588191
     ],
-    "wof:lastmodified": 1705508663,
+    "wof:lastmodified": 1705508927,
     "wof:name": "WN1251 (SFO-DEN)",
     "wof:parent_id": 1763588191,
     "wof:placetype": "custom",

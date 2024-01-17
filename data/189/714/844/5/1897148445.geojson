@@ -2,10 +2,12 @@
   "id": 1897148445,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-01-17",
+    "date:cessation_upper": "2024-01-17",
     "date:inception_lower": "2024-01-16",
     "date:inception_upper": "2024-01-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-01-16",
+    "edtf:cessation": "2024-01-17T04:32:00Z",
+    "edtf:inception": "2024-01-16T11:51:11-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.1186115,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.617458,
     "lbl:longitude": -122.391079,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102534161,
     "sfomuseum:base_flight_id": "20240116-D-ACA-4186",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N490UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "74530806"
+    },
     "wof:country": "US",
     "wof:created": 1705508722,
     "wof:geomhash": "b700d5ae3794da4176af6b85f6cd6669",
@@ -86,13 +97,14 @@
     ],
     "wof:id": 1897148445,
     "wof:involves": [
+      1159292085,
       102534161,
       102527513,
       1159285413,
       1763588443,
       1159283597
     ],
-    "wof:lastmodified": 1705508722,
+    "wof:lastmodified": 1705508928,
     "wof:name": "UA1632 (SFO-SNA)",
     "wof:parent_id": 1763588443,
     "wof:placetype": "custom",
