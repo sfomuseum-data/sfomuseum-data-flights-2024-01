@@ -2,10 +2,12 @@
   "id": 1897156045,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-01-17",
+    "date:cessation_upper": "2024-01-17",
     "date:inception_lower": "2024-01-17",
     "date:inception_upper": "2024-01-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-01-17",
+    "edtf:cessation": "2024-01-17T06:31:00Z",
+    "edtf:inception": "2024-01-17T09:19:38-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -105.1326535,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B753",
     "icao:airline": "UAL",
     "icao:base_airline": "CCA",
     "lbl:latitude": 37.620791,
     "lbl:longitude": -122.390014,
+    "sfomuseum:aircraft_id": 1159289945,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533631,
     "sfomuseum:base_flight_id": "20240117-D-CCA-7326",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N57852",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "74615175"
+    },
     "wof:country": "US",
     "wof:created": 1705595093,
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
@@ -86,13 +97,14 @@
     ],
     "wof:id": 1897156045,
     "wof:involves": [
+      1159283605,
+      1159289945,
       102533631,
       102527513,
       1159285413,
-      1763588321,
-      1159283605
+      1763588321
     ],
-    "wof:lastmodified": 1705595093,
+    "wof:lastmodified": 1705595248,
     "wof:name": "UA468 (SFO-ORD)",
     "wof:parent_id": 1763588321,
     "wof:placetype": "custom",
