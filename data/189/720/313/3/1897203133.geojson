@@ -2,10 +2,12 @@
   "id": 1897203133,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-01-24",
+    "date:cessation_upper": "2024-01-24",
     "date:inception_lower": "2024-01-24",
     "date:inception_upper": "2024-01-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-01-24",
+    "edtf:cessation": "2024-01-24T22:03:06Z",
+    "edtf:inception": "2024-01-24T19:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-01-24",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.195808,
     "geom:longitude": -113.5304005,
     "iata:airline": "UA",
+    "icao:aircraft": "B78X",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617615,
     "lbl:longitude": -122.390247,
+    "sfomuseum:aircraft_id": 1377564289,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102526247,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N12005",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +57,10 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "75320614",
+      "swim:gufi": "KO58370400"
+    },
     "wof:country": "US",
     "wof:created": 1706199847,
     "wof:geomhash": "8aed97a089883cbe179a22c2076f7bb1",
@@ -84,9 +97,10 @@
       102526247,
       102527513,
       1159285413,
-      1763588441
+      1763588441,
+      1377564289
     ],
-    "wof:lastmodified": 1706199847,
+    "wof:lastmodified": 1706200025,
     "wof:name": "UA2575 (SFO-COS)",
     "wof:parent_id": 1763588441,
     "wof:placetype": "custom",

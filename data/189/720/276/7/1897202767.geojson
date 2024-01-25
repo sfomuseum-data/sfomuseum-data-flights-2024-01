@@ -2,10 +2,12 @@
   "id": 1897202767,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-01-25",
+    "date:cessation_upper": "2024-01-25",
     "date:inception_lower": "2024-01-24",
     "date:inception_upper": "2024-01-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-01-24",
+    "edtf:cessation": "2024-01-25T00:44:09Z",
+    "edtf:inception": "2024-01-24T23:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2024-01-24",
@@ -48,6 +50,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "75398033"
+    },
     "wof:country": "US",
     "wof:created": 1706199762,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -86,7 +91,7 @@
       1159285591,
       1763588191
     ],
-    "wof:lastmodified": 1706199762,
+    "wof:lastmodified": 1706200021,
     "wof:name": "WN2729 (SFO-PHX)",
     "wof:parent_id": 1763588191,
     "wof:placetype": "custom",
