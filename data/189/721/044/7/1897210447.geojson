@@ -2,10 +2,12 @@
   "id": 1897210447,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-01-25",
+    "date:cessation_upper": "2024-01-25",
     "date:inception_lower": "2024-01-25",
     "date:inception_upper": "2024-01-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-01-25",
+    "edtf:cessation": "2024-01-25T14:50:57Z",
+    "edtf:inception": "2024-01-25T04:47:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "SK",
     "flysfo:date": "2024-01-25",
@@ -48,6 +50,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "75349979"
+    },
     "wof:country": "US",
     "wof:created": 1706286345,
     "wof:geomhash": "6cbb76e93301e33133b7541a51de6b35",
@@ -86,7 +91,7 @@
       1159285129,
       1763588455
     ],
-    "wof:lastmodified": 1706286345,
+    "wof:lastmodified": 1706286640,
     "wof:name": "SK936 (SFO-CPH)",
     "wof:parent_id": 1763588455,
     "wof:placetype": "custom",

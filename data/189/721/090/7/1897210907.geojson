@@ -2,10 +2,12 @@
   "id": 1897210907,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-01-25",
+    "date:cessation_upper": "2024-01-25",
     "date:inception_lower": "2024-01-25",
     "date:inception_upper": "2024-01-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-01-25",
+    "edtf:cessation": "2024-01-25T02:14:00Z",
+    "edtf:inception": "2024-01-25T00:48:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.19416749999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.620929,
     "lbl:longitude": -122.390272,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102526751,
     "sfomuseum:base_flight_id": "20240125-D-DLH-9350",
@@ -53,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "75341589",
+      "swim:gufi": "KO77225400"
+    },
     "wof:country": "US",
     "wof:created": 1706286453,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1897210907,
     "wof:involves": [
+      1763588325,
+      1159286015,
+      1159289871,
       102526751,
       102527513,
-      1159285413,
-      1763588325,
-      1159286015
+      1159285413
     ],
-    "wof:lastmodified": 1706286453,
+    "wof:lastmodified": 1706286643,
     "wof:name": "UA2077 (SFO-PHX)",
     "wof:parent_id": 1763588325,
     "wof:placetype": "custom",

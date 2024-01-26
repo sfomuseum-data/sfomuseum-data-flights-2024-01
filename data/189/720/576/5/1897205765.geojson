@@ -2,10 +2,12 @@
   "id": 1897205765,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-01-25",
+    "date:cessation_upper": "2024-01-25",
     "date:inception_lower": "2024-01-25",
     "date:inception_upper": "2024-01-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-01-25",
+    "edtf:cessation": "2024-01-25T05:48:36Z",
+    "edtf:inception": "2024-01-25T04:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "75349742"
+    },
     "wof:country": "US",
     "wof:created": 1706285176,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
@@ -92,7 +97,7 @@
       1763588135,
       1159283849
     ],
-    "wof:lastmodified": 1706285176,
+    "wof:lastmodified": 1706286644,
     "wof:name": "AS1295 (PDX-SFO)",
     "wof:parent_id": 1763588135,
     "wof:placetype": "custom",

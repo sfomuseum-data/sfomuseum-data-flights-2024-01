@@ -2,10 +2,12 @@
   "id": 1897207567,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-01-25",
+    "date:cessation_upper": "2024-01-25",
     "date:inception_lower": "2024-01-25",
     "date:inception_upper": "2024-01-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-01-25",
+    "edtf:cessation": "2024-01-25T01:39:01Z",
+    "edtf:inception": "2024-01-25T00:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "75340123"
+    },
     "wof:country": "US",
     "wof:created": 1706285648,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -92,7 +97,7 @@
       1763588339,
       1159285749
     ],
-    "wof:lastmodified": 1706285648,
+    "wof:lastmodified": 1706286659,
     "wof:name": "UA2611 (LAX-SFO)",
     "wof:parent_id": 1763588339,
     "wof:placetype": "custom",

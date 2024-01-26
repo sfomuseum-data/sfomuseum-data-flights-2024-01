@@ -2,10 +2,12 @@
   "id": 1897210861,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-01-25",
+    "date:cessation_upper": "2024-01-25",
     "date:inception_lower": "2024-01-25",
     "date:inception_upper": "2024-01-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-01-25",
+    "edtf:cessation": "2024-01-25T06:41:48Z",
+    "edtf:inception": "2024-01-25T01:24:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "75342513"
+    },
     "wof:country": "US",
     "wof:created": 1706286442,
     "wof:geomhash": "ffd2c7b34797175c51fc3517b1c4b69d",
@@ -92,7 +97,7 @@
       1763588339,
       1159283597
     ],
-    "wof:lastmodified": 1706286442,
+    "wof:lastmodified": 1706286643,
     "wof:name": "UA1723 (SFO-KOA)",
     "wof:parent_id": 1763588339,
     "wof:placetype": "custom",

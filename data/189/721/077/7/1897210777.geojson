@@ -2,10 +2,12 @@
   "id": 1897210777,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-01-25",
+    "date:cessation_upper": "2024-01-25",
     "date:inception_lower": "2024-01-25",
     "date:inception_upper": "2024-01-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-01-25",
+    "edtf:cessation": "2024-01-25T12:32:38Z",
+    "edtf:inception": "2024-01-25T07:42:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-01-25",
@@ -48,6 +50,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "75354444"
+    },
     "wof:country": "US",
     "wof:created": 1706286423,
     "wof:geomhash": "d26f8a4a9d40aeb65e997520007d0d60",
@@ -86,7 +91,7 @@
       1159285413,
       1763588315
     ],
-    "wof:lastmodified": 1706286423,
+    "wof:lastmodified": 1706286642,
     "wof:name": "UA1145 (SFO-CUN)",
     "wof:parent_id": 1763588315,
     "wof:placetype": "custom",

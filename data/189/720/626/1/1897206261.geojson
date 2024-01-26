@@ -2,10 +2,12 @@
   "id": 1897206261,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-01-25",
-    "date:inception_upper": "2024-01-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-01-25",
+    "date:cessation_lower": "2024-01-26",
+    "date:cessation_upper": "2024-01-26",
+    "date:inception_lower": "2024-01-26",
+    "date:inception_upper": "2024-01-26",
+    "edtf:cessation": "2024-01-26T07:29:43Z",
+    "edtf:inception": "2024-01-26T06:36:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "DAL",
     "icao:base_airline": "CAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240125-A-CAL-9084",
@@ -39,6 +43,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +60,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "75353924"
+    },
     "wof:country": "US",
     "wof:created": 1706285309,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -86,13 +96,14 @@
     ],
     "wof:id": 1897206261,
     "wof:involves": [
+      1159292085,
       102527513,
       102533795,
       1159284261,
       1763588249,
       1159284153
     ],
-    "wof:lastmodified": 1706285309,
+    "wof:lastmodified": 1706286648,
     "wof:name": "DL1424 (LAX-SFO)",
     "wof:parent_id": 1763588249,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1897208639,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-01-25",
+    "date:cessation_upper": "2024-01-25",
     "date:inception_lower": "2024-01-25",
     "date:inception_upper": "2024-01-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-01-25",
+    "edtf:cessation": "2024-01-25T03:12:26Z",
+    "edtf:inception": "2024-01-25T01:20:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "75341985"
+    },
     "wof:country": "US",
     "wof:created": 1706285908,
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
@@ -92,7 +97,7 @@
       1763588155,
       1159285749
     ],
-    "wof:lastmodified": 1706285908,
+    "wof:lastmodified": 1706286650,
     "wof:name": "AC571 (SFO-YVR)",
     "wof:parent_id": 1763588155,
     "wof:placetype": "custom",

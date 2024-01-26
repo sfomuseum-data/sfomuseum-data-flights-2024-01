@@ -2,10 +2,12 @@
   "id": 1897211045,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-01-25",
+    "date:cessation_upper": "2024-01-25",
     "date:inception_lower": "2024-01-25",
     "date:inception_upper": "2024-01-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-01-25",
+    "edtf:cessation": "2024-01-25T11:33:00Z",
+    "edtf:inception": "2024-01-25T08:33:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -108.8546935,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.620534,
     "lbl:longitude": -122.388506,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102534097,
     "sfomuseum:base_flight_id": "20240125-D-ANZ-9194",
@@ -53,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "75355271",
+      "swim:gufi": "KO19056500"
+    },
     "wof:country": "US",
     "wof:created": 1706286485,
     "wof:geomhash": "4d8eca8dfd12d13a56951180b27dbf13",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1897211045,
     "wof:involves": [
-      102534097,
       102527513,
       1159285413,
       1763588309,
-      1159283697
+      1159283697,
+      1159289985,
+      102534097
     ],
-    "wof:lastmodified": 1706286485,
+    "wof:lastmodified": 1706286645,
     "wof:name": "UA505 (SFO-IAH)",
     "wof:parent_id": 1763588309,
     "wof:placetype": "custom",

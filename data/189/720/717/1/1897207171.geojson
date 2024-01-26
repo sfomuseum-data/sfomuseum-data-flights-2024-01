@@ -2,10 +2,12 @@
   "id": 1897207171,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-01-25",
+    "date:cessation_upper": "2024-01-25",
     "date:inception_lower": "2024-01-25",
     "date:inception_upper": "2024-01-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-01-25",
+    "edtf:cessation": "2024-01-25T05:36:00Z",
+    "edtf:inception": "2024-01-25T03:07:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2024-01-25",
@@ -48,6 +50,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "75348668"
+    },
     "wof:country": "US",
     "wof:created": 1706285547,
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
@@ -86,7 +91,7 @@
       1159285591,
       1763588195
     ],
-    "wof:lastmodified": 1706285547,
+    "wof:lastmodified": 1706286657,
     "wof:name": "WN3340 (DEN-SFO)",
     "wof:parent_id": 1763588195,
     "wof:placetype": "custom",

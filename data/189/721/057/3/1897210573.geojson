@@ -2,10 +2,12 @@
   "id": 1897210573,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-01-25",
+    "date:cessation_upper": "2024-01-25",
     "date:inception_lower": "2024-01-25",
     "date:inception_upper": "2024-01-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-01-25",
+    "edtf:cessation": "2024-01-25T16:08:00Z",
+    "edtf:inception": "2024-01-25T15:04:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2024-01-25",
@@ -48,6 +50,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "75374469"
+    },
     "wof:country": "US",
     "wof:created": 1706286376,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
@@ -86,7 +91,7 @@
       1159285591,
       1763588193
     ],
-    "wof:lastmodified": 1706286376,
+    "wof:lastmodified": 1706286641,
     "wof:name": "WN382 (SFO-SAN)",
     "wof:parent_id": 1763588193,
     "wof:placetype": "custom",

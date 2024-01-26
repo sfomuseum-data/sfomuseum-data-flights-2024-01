@@ -2,10 +2,12 @@
   "id": 1897207403,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-01-25",
+    "date:cessation_upper": "2024-01-25",
     "date:inception_lower": "2024-01-25",
     "date:inception_upper": "2024-01-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-01-25",
+    "edtf:cessation": "2024-01-25T05:51:00Z",
+    "edtf:inception": "2024-01-25T04:05:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.1757545,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.617477,
     "lbl:longitude": -122.388302,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240125-A-ANZ-9622",
@@ -53,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "75349906",
+      "swim:gufi": "KU81824400"
+    },
     "wof:country": "US",
     "wof:created": 1706285608,
     "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1897207403,
     "wof:involves": [
-      102527513,
       102527363,
       1159285413,
       1763588283,
-      1159283697
+      1159283697,
+      1159289407,
+      102527513
     ],
-    "wof:lastmodified": 1706285608,
+    "wof:lastmodified": 1706286658,
     "wof:name": "UA1327 (SLC-SFO)",
     "wof:parent_id": 1763588283,
     "wof:placetype": "custom",

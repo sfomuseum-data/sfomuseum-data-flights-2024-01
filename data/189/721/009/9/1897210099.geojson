@@ -2,10 +2,12 @@
   "id": 1897210099,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-01-25",
+    "date:cessation_upper": "2024-01-25",
     "date:inception_lower": "2024-01-25",
     "date:inception_upper": "2024-01-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-01-25",
+    "edtf:cessation": "2024-01-25T09:49:12Z",
+    "edtf:inception": "2024-01-25T05:01:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "B6",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "B6",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "JBU",
     "icao:base_airline": "HAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159284583,
     "sfomuseum:arrival_id": 102534365,
     "sfomuseum:base_flight_id": "20240125-D-HAL-2360",
@@ -53,6 +57,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "75351828",
+      "swim:gufi": "KO04436500"
+    },
     "wof:country": "US",
     "wof:created": 1706286260,
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1897210099,
     "wof:involves": [
+      1159284489,
+      1159289411,
       102534365,
       102527513,
       1159284583,
-      1763588181,
-      1159284489
+      1763588181
     ],
-    "wof:lastmodified": 1706286260,
+    "wof:lastmodified": 1706286636,
     "wof:name": "B62416 (SFO-JFK)",
     "wof:parent_id": 1763588181,
     "wof:placetype": "custom",

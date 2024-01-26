@@ -2,10 +2,12 @@
   "id": 1897210811,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-01-25",
+    "date:cessation_upper": "2024-01-25",
     "date:inception_lower": "2024-01-25",
     "date:inception_upper": "2024-01-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-01-25",
+    "edtf:cessation": "2024-01-25T05:49:00Z",
+    "edtf:inception": "2024-01-25T02:43:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -109.7109545,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618874,
     "lbl:longitude": -122.38419,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528541,
     "sfomuseum:base_flight_id": "20240125-D-ANZ-9083",
@@ -53,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "75346396",
+      "swim:gufi": "KO85971400"
+    },
     "wof:country": "US",
     "wof:created": 1706286431,
     "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
@@ -90,9 +98,10 @@
       102527513,
       1159285413,
       1763588343,
-      1159283697
+      1159283697,
+      1159289407
     ],
-    "wof:lastmodified": 1706286431,
+    "wof:lastmodified": 1706286642,
     "wof:name": "UA1342 (SFO-DFW)",
     "wof:parent_id": 1763588343,
     "wof:placetype": "custom",
