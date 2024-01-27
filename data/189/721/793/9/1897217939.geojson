@@ -2,10 +2,12 @@
   "id": 1897217939,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-01-26",
+    "date:cessation_upper": "2024-01-26",
     "date:inception_lower": "2024-01-26",
     "date:inception_upper": "2024-01-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-01-26",
+    "edtf:cessation": "2024-01-26T04:49:57Z",
+    "edtf:inception": "2024-01-26T00:09:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "icao:base_airline": "VIR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102534365,
     "sfomuseum:base_flight_id": "20240126-D-VIR-4848",
@@ -53,6 +57,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "75419701"
+    },
     "wof:country": "US",
     "wof:created": 1706372490,
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
@@ -86,13 +93,14 @@
     ],
     "wof:id": 1897217939,
     "wof:involves": [
+      1159289939,
       102534365,
       102527513,
       1159284261,
       1763588251,
       1159285483
     ],
-    "wof:lastmodified": 1706372490,
+    "wof:lastmodified": 1706372959,
     "wof:name": "DL680 (SFO-JFK)",
     "wof:parent_id": 1763588251,
     "wof:placetype": "custom",
