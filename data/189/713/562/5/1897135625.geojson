@@ -45,6 +45,7 @@
     "wof:geomhash": "5fe9a4073f558f5d433cae4f846ab71e",
     "wof:hierarchy": [
       {
+        "custom_id": 1897135625,
         "flight_id": 1897135625
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1779770723
     ],
-    "wof:lastmodified": 1705421112,
+    "wof:lastmodified": 1717047841,
     "wof:name": "NZ9297 (MCO-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

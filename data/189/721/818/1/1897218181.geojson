@@ -45,6 +45,7 @@
     "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
     "wof:hierarchy": [
       {
+        "custom_id": 1897218181,
         "flight_id": 1897218181
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283849
     ],
-    "wof:lastmodified": 1706372549,
+    "wof:lastmodified": 1717047846,
     "wof:name": "FJ5862 (SFO-BOS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

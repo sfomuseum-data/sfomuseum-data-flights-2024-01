@@ -40,6 +40,7 @@
     "wof:geomhash": "cbd37ba65d3a2508653294cff7fdec15",
     "wof:hierarchy": [
       {
+        "custom_id": 1897119525,
         "flight_id": 1897119525
       }
     ],
@@ -50,11 +51,13 @@
       1159283813,
       -1
     ],
-    "wof:lastmodified": 1705248322,
+    "wof:lastmodified": 1717047841,
     "wof:name": "AS1349 (ZIH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -45,6 +45,7 @@
     "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
     "wof:hierarchy": [
       {
+        "custom_id": 1897138765,
         "flight_id": 1897138765
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283697
     ],
-    "wof:lastmodified": 1705421859,
+    "wof:lastmodified": 1717047843,
     "wof:name": "NZ4720 (SFO-YYZ)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

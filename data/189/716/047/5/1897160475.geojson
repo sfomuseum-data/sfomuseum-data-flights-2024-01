@@ -45,6 +45,7 @@
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
     "wof:hierarchy": [
       {
+        "custom_id": 1897160475,
         "flight_id": 1897160475
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159285129
     ],
-    "wof:lastmodified": 1705680782,
+    "wof:lastmodified": 1717047839,
     "wof:name": "UA2434 (ORD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

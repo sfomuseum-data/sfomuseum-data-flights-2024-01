@@ -40,6 +40,7 @@
     "wof:geomhash": "885c4de9460c22786ce1477efbdd0753",
     "wof:hierarchy": [
       {
+        "custom_id": 1897137743,
         "flight_id": 1897137743
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1705421620,
+    "wof:lastmodified": 1717047842,
     "wof:name": "UA6973 (GJT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

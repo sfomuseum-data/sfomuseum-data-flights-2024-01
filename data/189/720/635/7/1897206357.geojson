@@ -50,6 +50,7 @@
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
     "wof:hierarchy": [
       {
+        "custom_id": 1897206357,
         "flight_id": 1897206357
       }
     ],
@@ -60,11 +61,13 @@
       102531189,
       1159284261
     ],
-    "wof:lastmodified": 1706286649,
+    "wof:lastmodified": 1717047843,
     "wof:name": "DL8841 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -45,6 +45,7 @@
     "wof:geomhash": "01999c4327be8e36df88ffd5cda77111",
     "wof:hierarchy": [
       {
+        "custom_id": 1897107051,
         "flight_id": 1897107051
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159284261
     ],
-    "wof:lastmodified": 1705076893,
+    "wof:lastmodified": 1717047838,
     "wof:name": "VS7522 (SFO-MEX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

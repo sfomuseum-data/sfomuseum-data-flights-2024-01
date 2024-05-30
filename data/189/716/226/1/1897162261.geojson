@@ -53,6 +53,7 @@
     "wof:geomhash": "f1e29c4a83094711ef061292cfad3358",
     "wof:hierarchy": [
       {
+        "custom_id": 1897162261,
         "flight_id": 1897162261
       }
     ],
@@ -64,11 +65,13 @@
       1159283813,
       1159283849
     ],
-    "wof:lastmodified": 1705681783,
+    "wof:lastmodified": 1717047840,
     "wof:name": "AS512 (SFO-AUS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

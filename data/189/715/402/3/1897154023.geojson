@@ -45,6 +45,7 @@
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
     "wof:hierarchy": [
       {
+        "custom_id": 1897154023,
         "flight_id": 1897154023
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283597
     ],
-    "wof:lastmodified": 1705594617,
+    "wof:lastmodified": 1717047841,
     "wof:name": "NZ9053 (SFO-DEN)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

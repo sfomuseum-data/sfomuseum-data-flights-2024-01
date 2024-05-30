@@ -45,6 +45,7 @@
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
     "wof:hierarchy": [
       {
+        "custom_id": 1897249803,
         "flight_id": 1897249803
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159286153
     ],
-    "wof:lastmodified": 1706804699,
+    "wof:lastmodified": 1717047848,
     "wof:name": "SQ1704 (SFO-JFK)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -40,6 +40,7 @@
     "wof:geomhash": "a24fa29091ad40e8c2dcacd18340610c",
     "wof:hierarchy": [
       {
+        "custom_id": 1897120023,
         "flight_id": 1897120023
       }
     ],
@@ -50,11 +51,13 @@
       1159284211,
       -1
     ],
-    "wof:lastmodified": 1705248448,
+    "wof:lastmodified": 1717047836,
     "wof:name": "CM408 (PTY-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

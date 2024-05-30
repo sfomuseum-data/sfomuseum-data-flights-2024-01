@@ -53,6 +53,7 @@
     "wof:geomhash": "c95405ad82a47404b222d64c163ad7d9",
     "wof:hierarchy": [
       {
+        "custom_id": 1897198919,
         "flight_id": 1897198919
       }
     ],
@@ -63,11 +64,13 @@
       102534155,
       1159284261
     ],
-    "wof:lastmodified": 1706200012,
+    "wof:lastmodified": 1717047844,
     "wof:name": "DL8842 (IND-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

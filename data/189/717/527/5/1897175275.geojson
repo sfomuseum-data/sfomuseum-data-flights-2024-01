@@ -45,6 +45,7 @@
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
     "wof:hierarchy": [
       {
+        "custom_id": 1897175275,
         "flight_id": 1897175275
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159284127
     ],
-    "wof:lastmodified": 1705939544,
+    "wof:lastmodified": 1717047841,
     "wof:name": "AS1166 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

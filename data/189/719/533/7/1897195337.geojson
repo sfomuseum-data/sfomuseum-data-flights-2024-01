@@ -40,6 +40,7 @@
     "wof:geomhash": "aececf2287744493115a1cd2999bcd1e",
     "wof:hierarchy": [
       {
+        "custom_id": 1897195337,
         "flight_id": 1897195337
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1706113496,
+    "wof:lastmodified": 1717047843,
     "wof:name": "UA3873 (SFO-GYR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

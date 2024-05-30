@@ -40,6 +40,7 @@
     "wof:geomhash": "865973335526f09b753756c305bf4946",
     "wof:hierarchy": [
       {
+        "custom_id": 1897127035,
         "flight_id": 1897127035
       }
     ],
@@ -50,11 +51,13 @@
       1159283849,
       -1
     ],
-    "wof:lastmodified": 1705334468,
+    "wof:lastmodified": 1717047840,
     "wof:name": "AA1602 (DFW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

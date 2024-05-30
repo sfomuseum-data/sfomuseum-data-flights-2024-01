@@ -45,6 +45,7 @@
     "wof:geomhash": "70ecaf1bff2da3af9ba52c9bde5534af",
     "wof:hierarchy": [
       {
+        "custom_id": 1897083815,
         "flight_id": 1897083815
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283697
     ],
-    "wof:lastmodified": 1704902690,
+    "wof:lastmodified": 1717047833,
     "wof:name": "NZ9366 (PHL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

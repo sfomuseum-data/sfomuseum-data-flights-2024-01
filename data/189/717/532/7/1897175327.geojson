@@ -45,6 +45,7 @@
     "wof:geomhash": "579cc6c0d5668ba584a946b357aa3191",
     "wof:hierarchy": [
       {
+        "custom_id": 1897175327,
         "flight_id": 1897175327
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283849
     ],
-    "wof:lastmodified": 1705939557,
+    "wof:lastmodified": 1717047841,
     "wof:name": "AS3333 (BUR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

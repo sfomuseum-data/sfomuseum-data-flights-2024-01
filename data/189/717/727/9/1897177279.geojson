@@ -40,6 +40,7 @@
     "wof:geomhash": "39d9eba3dc111bfc07b45f612540f4b0",
     "wof:hierarchy": [
       {
+        "custom_id": 1897177279,
         "flight_id": 1897177279
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1705940026,
+    "wof:lastmodified": 1717047843,
     "wof:name": "UA6969 (SMF-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

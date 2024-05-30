@@ -45,6 +45,7 @@
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
     "wof:hierarchy": [
       {
+        "custom_id": 1897138969,
         "flight_id": 1897138969
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283597
     ],
-    "wof:lastmodified": 1705421906,
+    "wof:lastmodified": 1717047843,
     "wof:name": "NZ9372 (SFO-PHX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

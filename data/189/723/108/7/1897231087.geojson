@@ -40,6 +40,7 @@
     "wof:geomhash": "46fccc0e56242535ccfd5ecb278f9a75",
     "wof:hierarchy": [
       {
+        "custom_id": 1897231087,
         "flight_id": 1897231087
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1706631194,
+    "wof:lastmodified": 1717047845,
     "wof:name": "UA156 (LIH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

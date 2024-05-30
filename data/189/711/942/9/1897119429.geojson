@@ -45,6 +45,7 @@
     "wof:geomhash": "e1d14091bb010ff3febce3dc78c1c8b4",
     "wof:hierarchy": [
       {
+        "custom_id": 1897119429,
         "flight_id": 1897119429
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283697
     ],
-    "wof:lastmodified": 1705248299,
+    "wof:lastmodified": 1717047841,
     "wof:name": "NZ9558 (RDU-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -45,6 +45,7 @@
     "wof:geomhash": "4d8eca8dfd12d13a56951180b27dbf13",
     "wof:hierarchy": [
       {
+        "custom_id": 1897193543,
         "flight_id": 1897193543
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283697
     ],
-    "wof:lastmodified": 1706113060,
+    "wof:lastmodified": 1717047841,
     "wof:name": "NZ9193 (SFO-IAH)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

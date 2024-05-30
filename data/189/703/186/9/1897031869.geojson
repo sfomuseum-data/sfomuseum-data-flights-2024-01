@@ -40,6 +40,7 @@
     "wof:geomhash": "8933d78fb39ee159acf7eb0738f97ef5",
     "wof:hierarchy": [
       {
+        "custom_id": 1897031869,
         "flight_id": 1897031869
       }
     ],
@@ -50,11 +51,13 @@
       1159285591,
       -1
     ],
-    "wof:lastmodified": 1704385536,
+    "wof:lastmodified": 1717047846,
     "wof:name": "WN8507 (SFO-OAK)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

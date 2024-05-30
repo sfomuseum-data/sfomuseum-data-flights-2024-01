@@ -40,6 +40,7 @@
     "wof:geomhash": "eed3ad030b4c80153105b635669626b5",
     "wof:hierarchy": [
       {
+        "custom_id": 1897209311,
         "flight_id": 1897209311
       }
     ],
@@ -50,11 +51,13 @@
       1159283813,
       -1
     ],
-    "wof:lastmodified": 1706286069,
+    "wof:lastmodified": 1717047845,
     "wof:name": "AS448 (SFO-TPA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

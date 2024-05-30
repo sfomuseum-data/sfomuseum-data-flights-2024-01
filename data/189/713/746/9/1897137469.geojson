@@ -45,6 +45,7 @@
     "wof:geomhash": "aae625247f3652ef8a50cae9f49d2791",
     "wof:hierarchy": [
       {
+        "custom_id": 1897137469,
         "flight_id": 1897137469
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283697
     ],
-    "wof:lastmodified": 1705421555,
+    "wof:lastmodified": 1717047842,
     "wof:name": "UA2097 (SBA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -45,6 +45,7 @@
     "wof:geomhash": "38f88108bbae8bb050c3144d37bdc384",
     "wof:hierarchy": [
       {
+        "custom_id": 1897166203,
         "flight_id": 1897166203
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283697
     ],
-    "wof:lastmodified": 1705766661,
+    "wof:lastmodified": 1717047843,
     "wof:name": "NZ2924 (MIA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

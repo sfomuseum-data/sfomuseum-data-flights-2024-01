@@ -45,6 +45,7 @@
     "wof:geomhash": "f1e29c4a83094711ef061292cfad3358",
     "wof:hierarchy": [
       {
+        "custom_id": 1897217137,
         "flight_id": 1897217137
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283597
     ],
-    "wof:lastmodified": 1706372301,
+    "wof:lastmodified": 1717047845,
     "wof:name": "NZ9137 (SFO-AUS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

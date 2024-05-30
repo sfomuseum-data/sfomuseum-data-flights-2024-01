@@ -40,6 +40,7 @@
     "wof:geomhash": "5cb31017412a00ced54cc35c2a74371e",
     "wof:hierarchy": [
       {
+        "custom_id": 1897133187,
         "flight_id": 1897133187
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1705335954,
+    "wof:lastmodified": 1717047840,
     "wof:name": "UA599 (SFO-SMF)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

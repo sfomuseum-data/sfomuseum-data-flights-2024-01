@@ -40,6 +40,7 @@
     "wof:geomhash": "300aa0b6d6fd1fa7d09bf740f0e0c265",
     "wof:hierarchy": [
       {
+        "custom_id": 1897085663,
         "flight_id": 1897085663
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1704903144,
+    "wof:lastmodified": 1717047835,
     "wof:name": "UA3899 (HKG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

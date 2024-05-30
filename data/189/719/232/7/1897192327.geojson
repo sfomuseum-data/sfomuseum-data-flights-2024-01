@@ -45,6 +45,7 @@
     "wof:geomhash": "c95405ad82a47404b222d64c163ad7d9",
     "wof:hierarchy": [
       {
+        "custom_id": 1897192327,
         "flight_id": 1897192327
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283697
     ],
-    "wof:lastmodified": 1706112751,
+    "wof:lastmodified": 1717047840,
     "wof:name": "UA500 (IND-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -45,6 +45,7 @@
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
     "wof:hierarchy": [
       {
+        "custom_id": 1897123271,
         "flight_id": 1897123271
       }
     ],
@@ -56,11 +57,13 @@
       1763588337,
       1159283597
     ],
-    "wof:lastmodified": 1705249226,
+    "wof:lastmodified": 1717047839,
     "wof:name": "LH8944 (SFO-SLC)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

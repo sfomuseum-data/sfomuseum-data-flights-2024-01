@@ -40,6 +40,7 @@
     "wof:geomhash": "659cd7ad5e5126045522d61820d30c49",
     "wof:hierarchy": [
       {
+        "custom_id": 1897225521,
         "flight_id": 1897225521
       }
     ],
@@ -50,11 +51,13 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1706545340,
+    "wof:lastmodified": 1717047845,
     "wof:name": "DL8929 (SFO-HOU)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

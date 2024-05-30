@@ -45,6 +45,7 @@
     "wof:geomhash": "7babf6b9ba279da48525185e0724d212",
     "wof:hierarchy": [
       {
+        "custom_id": 1897123913,
         "flight_id": 1897123913
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159286259
     ],
-    "wof:lastmodified": 1705249381,
+    "wof:lastmodified": 1717047839,
     "wof:name": "SQ1782 (SFO-SJD)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

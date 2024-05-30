@@ -45,6 +45,7 @@
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
     "wof:hierarchy": [
       {
+        "custom_id": 1897130941,
         "flight_id": 1897130941
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283697
     ],
-    "wof:lastmodified": 1705335431,
+    "wof:lastmodified": 1717047838,
     "wof:name": "NZ9001 (SFO-ATL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

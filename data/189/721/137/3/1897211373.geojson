@@ -45,6 +45,7 @@
     "wof:geomhash": "4d8eca8dfd12d13a56951180b27dbf13",
     "wof:hierarchy": [
       {
+        "custom_id": 1897211373,
         "flight_id": 1897211373
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159284333
     ],
-    "wof:lastmodified": 1706286568,
+    "wof:lastmodified": 1717047842,
     "wof:name": "VA8078 (SFO-IAH)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

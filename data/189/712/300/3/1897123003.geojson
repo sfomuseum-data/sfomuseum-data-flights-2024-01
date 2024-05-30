@@ -45,6 +45,7 @@
     "wof:geomhash": "1c4ce661f6692034a082b31062a17f5e",
     "wof:hierarchy": [
       {
+        "custom_id": 1897123003,
         "flight_id": 1897123003
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283605
     ],
-    "wof:lastmodified": 1705249161,
+    "wof:lastmodified": 1717047838,
     "wof:name": "CA7314 (SFO-IAD)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

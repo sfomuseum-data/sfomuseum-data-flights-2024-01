@@ -45,6 +45,7 @@
     "wof:geomhash": "68b06bbd791163721a20ab955d143e55",
     "wof:hierarchy": [
       {
+        "custom_id": 1897176903,
         "flight_id": 1897176903
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159286015
     ],
-    "wof:lastmodified": 1705939938,
+    "wof:lastmodified": 1717047842,
     "wof:name": "UA1403 (EUG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

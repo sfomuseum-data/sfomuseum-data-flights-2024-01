@@ -45,6 +45,7 @@
     "wof:geomhash": "4224d1c4c9907a232ddfbf90e60373e4",
     "wof:hierarchy": [
       {
+        "custom_id": 1897103807,
         "flight_id": 1897103807
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159284261
     ],
-    "wof:lastmodified": 1705076130,
+    "wof:lastmodified": 1717047835,
     "wof:name": "WS6161 (MEX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

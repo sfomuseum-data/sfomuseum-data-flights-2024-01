@@ -45,6 +45,7 @@
     "wof:geomhash": "10c01f207ef95eecc919066d165ec5eb",
     "wof:hierarchy": [
       {
+        "custom_id": 1897192655,
         "flight_id": 1897192655
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283875
     ],
-    "wof:lastmodified": 1706112835,
+    "wof:lastmodified": 1717047841,
     "wof:name": "VA8174 (BWI-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

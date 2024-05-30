@@ -45,6 +45,7 @@
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy": [
       {
+        "custom_id": 1897169547,
         "flight_id": 1897169547
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283875
     ],
-    "wof:lastmodified": 1705767466,
+    "wof:lastmodified": 1717047845,
     "wof:name": "NH7356 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

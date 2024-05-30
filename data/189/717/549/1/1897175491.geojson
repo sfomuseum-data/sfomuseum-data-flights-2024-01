@@ -45,6 +45,7 @@
     "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
     "wof:hierarchy": [
       {
+        "custom_id": 1897175491,
         "flight_id": 1897175491
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159285749
     ],
-    "wof:lastmodified": 1705939597,
+    "wof:lastmodified": 1717047841,
     "wof:name": "AV6975 (YVR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

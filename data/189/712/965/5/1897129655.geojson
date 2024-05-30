@@ -45,6 +45,7 @@
     "wof:geomhash": "b9e617aa80dabb56896871b70acf102e",
     "wof:hierarchy": [
       {
+        "custom_id": 1897129655,
         "flight_id": 1897129655
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283697
     ],
-    "wof:lastmodified": 1705335133,
+    "wof:lastmodified": 1717047842,
     "wof:name": "UA1950 (CLE-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

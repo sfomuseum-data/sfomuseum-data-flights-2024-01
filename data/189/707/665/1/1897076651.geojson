@@ -45,6 +45,7 @@
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
     "wof:hierarchy": [
       {
+        "custom_id": 1897076651,
         "flight_id": 1897076651
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159286015
     ],
-    "wof:lastmodified": 1704816797,
+    "wof:lastmodified": 1717047836,
     "wof:name": "UA638 (HNL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -40,6 +40,7 @@
     "wof:geomhash": "ac29143dee46faf8dc4d82fa5cfc7601",
     "wof:hierarchy": [
       {
+        "custom_id": 1897156029,
         "flight_id": 1897156029
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1705595090,
+    "wof:lastmodified": 1717047843,
     "wof:name": "UA3895 (SFO-EUG)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

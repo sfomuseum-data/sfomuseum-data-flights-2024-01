@@ -45,6 +45,7 @@
     "wof:geomhash": "2c2e1729c8655812749a286fa73dd01e",
     "wof:hierarchy": [
       {
+        "custom_id": 1897135661,
         "flight_id": 1897135661
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283697
     ],
-    "wof:lastmodified": 1705421122,
+    "wof:lastmodified": 1717047841,
     "wof:name": "NZ9376 (ASE-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

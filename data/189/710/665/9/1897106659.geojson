@@ -45,6 +45,7 @@
     "wof:geomhash": "f1e29c4a83094711ef061292cfad3358",
     "wof:hierarchy": [
       {
+        "custom_id": 1897106659,
         "flight_id": 1897106659
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283917
     ],
-    "wof:lastmodified": 1705076806,
+    "wof:lastmodified": 1717047838,
     "wof:name": "UA2633 (SFO-AUS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

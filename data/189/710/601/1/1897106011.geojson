@@ -45,6 +45,7 @@
     "wof:geomhash": "7babf6b9ba279da48525185e0724d212",
     "wof:hierarchy": [
       {
+        "custom_id": 1897106011,
         "flight_id": 1897106011
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159285043
     ],
-    "wof:lastmodified": 1705076647,
+    "wof:lastmodified": 1717047837,
     "wof:name": "QF3756 (SFO-SJD)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

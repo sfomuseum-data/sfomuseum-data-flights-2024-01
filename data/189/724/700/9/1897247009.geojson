@@ -40,6 +40,7 @@
     "wof:geomhash": "57b2b594ef41523ab9fe7c26d147f9bd",
     "wof:hierarchy": [
       {
+        "custom_id": 1897247009,
         "flight_id": 1897247009
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1706804007,
+    "wof:lastmodified": 1717047847,
     "wof:name": "UA3916 (SJD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

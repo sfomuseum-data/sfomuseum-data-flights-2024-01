@@ -40,6 +40,7 @@
     "wof:geomhash": "512b3b111d6d870a84d7b8242b8e09c3",
     "wof:hierarchy": [
       {
+        "custom_id": 1897198867,
         "flight_id": 1897198867
       }
     ],
@@ -50,11 +51,13 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1706198859,
+    "wof:lastmodified": 1717047844,
     "wof:name": "DL399 (PSC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

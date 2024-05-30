@@ -45,6 +45,7 @@
     "wof:geomhash": "07839d38a937070012f963bfe77eb5da",
     "wof:hierarchy": [
       {
+        "custom_id": 1897143337,
         "flight_id": 1897143337
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283597
     ],
-    "wof:lastmodified": 1705507430,
+    "wof:lastmodified": 1717047839,
     "wof:name": "AC6103 (AKL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

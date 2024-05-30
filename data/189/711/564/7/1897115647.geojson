@@ -45,6 +45,7 @@
     "wof:geomhash": "36f645f844d4838b633d7fed3f06d4a5",
     "wof:hierarchy": [
       {
+        "custom_id": 1897115647,
         "flight_id": 1897115647
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283697
     ],
-    "wof:lastmodified": 1705163101,
+    "wof:lastmodified": 1717047839,
     "wof:name": "UA1403 (SFO-BNA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -45,6 +45,7 @@
     "wof:geomhash": "ff961493fc59fc665836e174da62aa8e",
     "wof:hierarchy": [
       {
+        "custom_id": 1897069503,
         "flight_id": 1897069503
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159286015
     ],
-    "wof:lastmodified": 1704730939,
+    "wof:lastmodified": 1717047838,
     "wof:name": "LH8736 (SFO-HNL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

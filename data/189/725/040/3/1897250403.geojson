@@ -45,6 +45,7 @@
     "wof:geomhash": "a63fc4dac3cd4064d907a0b9ef33a7bc",
     "wof:hierarchy": [
       {
+        "custom_id": 1897250403,
         "flight_id": 1897250403
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283597
     ],
-    "wof:lastmodified": 1706804848,
+    "wof:lastmodified": 1717047845,
     "wof:name": "UA58 (SFO-FRA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

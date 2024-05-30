@@ -45,6 +45,7 @@
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy": [
       {
+        "custom_id": 1897178857,
         "flight_id": 1897178857
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159285749
     ],
-    "wof:lastmodified": 1705940407,
+    "wof:lastmodified": 1717047844,
     "wof:name": "AV2157 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

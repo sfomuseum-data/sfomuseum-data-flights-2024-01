@@ -45,6 +45,7 @@
     "wof:geomhash": "f65caf98d316e6ee4a43fdc3ee688d07",
     "wof:hierarchy": [
       {
+        "custom_id": 1897104545,
         "flight_id": 1897104545
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283697
     ],
-    "wof:lastmodified": 1705076298,
+    "wof:lastmodified": 1717047836,
     "wof:name": "NZ9040 (SFO-CLE)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

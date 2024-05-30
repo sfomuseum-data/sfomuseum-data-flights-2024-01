@@ -45,6 +45,7 @@
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
     "wof:hierarchy": [
       {
+        "custom_id": 1897201531,
         "flight_id": 1897201531
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159286153
     ],
-    "wof:lastmodified": 1706199477,
+    "wof:lastmodified": 1717047840,
     "wof:name": "AS332 (SFO-ORD)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

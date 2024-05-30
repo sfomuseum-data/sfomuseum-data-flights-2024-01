@@ -40,6 +40,7 @@
     "wof:geomhash": "1f86cc41c51819fe374d86de27276a46",
     "wof:hierarchy": [
       {
+        "custom_id": 1897061473,
         "flight_id": 1897061473
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1704644769,
+    "wof:lastmodified": 1717047833,
     "wof:name": "UA3899 (SFO-KIX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

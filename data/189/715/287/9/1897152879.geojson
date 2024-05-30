@@ -45,6 +45,7 @@
     "wof:geomhash": "462e561a68f133085fb895c49eddc748",
     "wof:hierarchy": [
       {
+        "custom_id": 1897152879,
         "flight_id": 1897152879
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283697
     ],
-    "wof:lastmodified": 1705594351,
+    "wof:lastmodified": 1717047840,
     "wof:name": "UA483 (BNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

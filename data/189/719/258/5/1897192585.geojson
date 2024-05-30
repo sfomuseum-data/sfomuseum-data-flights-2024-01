@@ -45,6 +45,7 @@
     "wof:geomhash": "c95405ad82a47404b222d64c163ad7d9",
     "wof:hierarchy": [
       {
+        "custom_id": 1897192585,
         "flight_id": 1897192585
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283697
     ],
-    "wof:lastmodified": 1706112817,
+    "wof:lastmodified": 1717047841,
     "wof:name": "VA8034 (IND-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

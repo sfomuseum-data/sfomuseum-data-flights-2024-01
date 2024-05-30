@@ -45,6 +45,7 @@
     "wof:geomhash": "87e43b321087b5e7d68ac47fe0a6e824",
     "wof:hierarchy": [
       {
+        "custom_id": 1897057227,
         "flight_id": 1897057227
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159285043
     ],
-    "wof:lastmodified": 1704643799,
+    "wof:lastmodified": 1717047837,
     "wof:name": "QF3728 (PVR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

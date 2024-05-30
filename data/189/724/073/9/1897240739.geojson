@@ -45,6 +45,7 @@
     "wof:geomhash": "ffd2c7b34797175c51fc3517b1c4b69d",
     "wof:hierarchy": [
       {
+        "custom_id": 1897240739,
         "flight_id": 1897240739
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159284613
     ],
-    "wof:lastmodified": 1706718054,
+    "wof:lastmodified": 1717047845,
     "wof:name": "DL565 (SFO-KOA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-01",
     "wof:superseded_by": [],
     "wof:supersedes": []
